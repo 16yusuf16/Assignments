@@ -35,3 +35,11 @@
 #### Unit testing. TDD approach will be favored.
 #### Packaging (how easy it is to run the code)
 #### Domain Modeling
+
+
+
+
+##  postgresql (Npgsql)
+##  mediatR
+##  Web-Api
+##  Command-base
