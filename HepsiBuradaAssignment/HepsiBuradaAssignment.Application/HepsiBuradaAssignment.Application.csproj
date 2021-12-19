@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HepsiBuradaAssignment.Domain\HepsiBuradaAssignment.Domain.csproj" />
+    <ProjectReference Include="..\HepsiBuradaAssignment.Infrastructure\HepsiBuradaAssignment.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Commands\" />
+    <None Remove="Models\" />
+    <None Remove="Response\" />
+    <None Remove="Queries\" />
+    <None Remove="Commands\Handler\" />
+    <None Remove="Commands\CommandResult\" />
+    <None Remove="MediatR" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="AutoMapper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Models\" />
+    <Folder Include="Response\" />
+    <Folder Include="Queries\" />
+    <Folder Include="Commands\Handler\" />
+    <Folder Include="Commands\CommandResult\" />
+    <Folder Include="AutoMapper\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+</Project>

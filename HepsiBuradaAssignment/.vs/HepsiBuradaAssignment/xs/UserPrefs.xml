@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{411D3C9E-C9A8-4DC8-B404-CCC7C8E49369}|HepsiBuradaAssignment">
+  <MonoDevelop.Ide.ItemProperties.HepsiBuradaAssignment.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HepsiBuradaAssignment" expanded="True">
+            <Node name="HepsiBuradaAssignment.Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Configurations" expanded="True">
+                  <Node name="CampaignConfiguration.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HepsiBuradaAssignment" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Application.deps.json
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Application.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/ref/HepsiBuradaAssignment.Application.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Application.pdb
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Domain.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Infrastructure.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Domain.pdb
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/bin/Debug/net5.0/HepsiBuradaAssignment.Infrastructure.pdb
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.csproj.AssemblyReference.cache
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.AssemblyInfoInputs.cache
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.AssemblyInfo.cs
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.csproj.CoreCompileInputs.cache
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.csproj.CopyComplete
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/ref/HepsiBuradaAssignment.Application.dll
+/Users/yusuftuna/Desktop/HepsiBuradaAssignment/HepsiBuradaAssignment/HepsiBuradaAssignment.Application/obj/Debug/net5.0/HepsiBuradaAssignment.Application.pdb
